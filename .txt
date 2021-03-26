@@ -1,0 +1,153 @@
+--------- beginning of main
+03-23 21:12:10.947  1795  2416 E GnssHAL_GnssInterface: gnssSvStatusCb: a: input svInfo.flags is 8
+03-23 21:12:10.947  1795  2416 E GnssHAL_GnssInterface: gnssSvStatusCb: b: input svInfo.flags is 8
+03-23 21:12:11.322  9277  9319 I MicroDetectionWorker: #startMicroDetector [speakerMode: 0]
+03-23 21:12:11.324  9277  9319 W ErrorReporter: reportError [type: 211, code: 393244, bug: 0]: errorCode: 393244, engine: 0
+03-23 21:12:11.325  9277  9319 I MicroDetector: Keeping mic open: false
+03-23 21:12:11.326  9277  9319 I MicroDetectionWorker: #onError(false)
+03-23 21:12:11.947  1795  2416 E GnssHAL_GnssInterface: gnssSvStatusCb: a: input svInfo.flags is 8
+03-23 21:12:11.947  1795  2416 E GnssHAL_GnssInterface: gnssSvStatusCb: b: input svInfo.flags is 8
+03-23 21:12:12.947  1795  2416 E GnssHAL_GnssInterface: gnssSvStatusCb: a: input svInfo.flags is 8
+03-23 21:12:12.947  1795  2416 E GnssHAL_GnssInterface: gnssSvStatusCb: b: input svInfo.flags is 8
+03-23 21:12:13.653  1923  1923 E netmgr  : Failed to open QEMU pipe 'qemud:network': Invalid argument
+03-23 21:12:13.947  1795  2416 E GnssHAL_GnssInterface: gnssSvStatusCb: a: input svInfo.flags is 8
+03-23 21:12:13.947  1795  2416 E GnssHAL_GnssInterface: gnssSvStatusCb: b: input svInfo.flags is 8
+03-23 21:12:14.947  1795  2416 E GnssHAL_GnssInterface: gnssSvStatusCb: a: input svInfo.flags is 8
+03-23 21:12:14.947  1795  2416 E GnssHAL_GnssInterface: gnssSvStatusCb: b: input svInfo.flags is 8
+03-23 21:12:15.914 14328 14328 W app_process: type=1400 audit(0.0:146): avc: denied { read } for name="u:object_r:device_config_runtime_native_boot_prop:s0" dev="tmpfs" ino=7293 scontext=u:r:shell:s0 tcontext=u:object_r:device_config_runtime_native_boot_prop:s0 tclass=file permissive=0
+03-23 21:12:15.914 14328 14328 W app_process: type=1400 audit(0.0:147): avc: denied { read } for name="u:object_r:device_config_runtime_native_boot_prop:s0" dev="tmpfs" ino=7293 scontext=u:r:shell:s0 tcontext=u:object_r:device_config_runtime_native_boot_prop:s0 tclass=file permissive=0
+03-23 21:12:15.923 14328 14328 D AndroidRuntime: >>>>>> START com.android.internal.os.RuntimeInit uid 2000 <<<<<<
+03-23 21:12:15.925 14328 14328 E libc    : Access denied finding property "persist.device_config.runtime_native_boot.enable_apex_image"
+03-23 21:12:15.925 14328 14328 I AndroidRuntime: Using default boot image
+03-23 21:12:15.925 14328 14328 E libc    : Access denied finding property "persist.device_config.runtime_native_boot.disable_lock_profiling"
+03-23 21:12:15.925 14328 14328 I AndroidRuntime: Leaving lock profiling enabled
+03-23 21:12:15.925 14328 14328 E libc    : Access denied finding property "persist.device_config.runtime_native_boot.enable_generational_cc"
+03-23 21:12:15.914 14328 14328 W app_process: type=1400 audit(0.0:148): avc: denied { read } for name="u:object_r:device_config_runtime_native_boot_prop:s0" dev="tmpfs" ino=7293 scontext=u:r:shell:s0 tcontext=u:object_r:device_config_runtime_native_boot_prop:s0 tclass=file permissive=0
+03-23 21:12:15.947  1795  2416 E GnssHAL_GnssInterface: gnssSvStatusCb: a: input svInfo.flags is 8
+03-23 21:12:15.947  1795  2416 E GnssHAL_GnssInterface: gnssSvStatusCb: b: input svInfo.flags is 8
+03-23 21:12:15.975 14328 14328 D ICU     : Time zone APEX file found: /apex/com.android.tzdata/etc/icu/icu_tzdata.dat
+03-23 21:12:15.978 14328 14328 W app_process: Unexpected CPU variant for X86 using defaults: x86
+03-23 21:12:15.979 14328 14328 I app_process: The ClassLoaderContext is a special shared library.
+03-23 21:12:15.988 14328 14328 W app_process: JNI RegisterNativeMethods: attempt to register 0 native methods for android.media.AudioAttributes
+03-23 21:12:15.990 14328 14328 D AndroidRuntime: Calling main entry com.android.commands.am.Am
+03-23 21:12:16.329  9277  9319 I MicroDetectionWorker: #startMicroDetector [speakerMode: 0]
+03-23 21:12:16.331  9277  9319 W ErrorReporter: reportError [type: 211, code: 393244, bug: 0]: errorCode: 393244, engine: 0
+03-23 21:12:16.332  9277  9319 I MicroDetector: Keeping mic open: false
+03-23 21:12:16.332  9277  9319 I MicroDetectionWorker: #onError(false)
+03-23 21:12:16.947  1795  2416 E GnssHAL_GnssInterface: gnssSvStatusCb: a: input svInfo.flags is 8
+03-23 21:12:16.947  1795  2416 E GnssHAL_GnssInterface: gnssSvStatusCb: b: input svInfo.flags is 8
+03-23 21:12:17.556 14328 14328 D AndroidRuntime: Shutting down VM
+--------- beginning of main
+03-23 21:25:31.036  1795  2416 E GnssHAL_GnssInterface: gnssSvStatusCb: a: input svInfo.flags is 8
+03-23 21:25:31.036  1795  2416 E GnssHAL_GnssInterface: gnssSvStatusCb: b: input svInfo.flags is 8
+03-23 21:25:32.036  1795  2416 E GnssHAL_GnssInterface: gnssSvStatusCb: a: input svInfo.flags is 8
+03-23 21:25:32.036  1795  2416 E GnssHAL_GnssInterface: gnssSvStatusCb: b: input svInfo.flags is 8
+03-23 21:25:32.330  9277  9319 I MicroDetectionWorker: #startMicroDetector [speakerMode: 0]
+03-23 21:25:32.330  9277  9319 W ErrorReporter: reportError [type: 211, code: 393244, bug: 0]: errorCode: 393244, engine: 0
+03-23 21:25:32.330  9277  9319 I MicroDetector: Keeping mic open: false
+03-23 21:25:32.330  9277  9319 I MicroDetectionWorker: #onError(false)
+03-23 21:25:33.036  1795  2416 E GnssHAL_GnssInterface: gnssSvStatusCb: a: input svInfo.flags is 8
+03-23 21:25:33.036  1795  2416 E GnssHAL_GnssInterface: gnssSvStatusCb: b: input svInfo.flags is 8
+03-23 21:25:34.036  1795  2416 E GnssHAL_GnssInterface: gnssSvStatusCb: a: input svInfo.flags is 8
+03-23 21:25:34.036  1795  2416 E GnssHAL_GnssInterface: gnssSvStatusCb: b: input svInfo.flags is 8
+03-23 21:25:35.037  1795  2416 E GnssHAL_GnssInterface: gnssSvStatusCb: a: input svInfo.flags is 8
+03-23 21:25:35.037  1795  2416 E GnssHAL_GnssInterface: gnssSvStatusCb: b: input svInfo.flags is 8
+03-23 21:25:35.317 14714 14714 D AndroidRuntime: >>>>>> START com.android.internal.os.RuntimeInit uid 2000 <<<<<<
+03-23 21:25:35.320 14714 14714 E libc    : Access denied finding property "persist.device_config.runtime_native_boot.enable_apex_image"
+03-23 21:25:35.320 14714 14714 I AndroidRuntime: Using default boot image
+03-23 21:25:35.321 14714 14714 E libc    : Access denied finding property "persist.device_config.runtime_native_boot.disable_lock_profiling"
+03-23 21:25:35.321 14714 14714 I AndroidRuntime: Leaving lock profiling enabled
+03-23 21:25:35.321 14714 14714 E libc    : Access denied finding property "persist.device_config.runtime_native_boot.enable_generational_cc"
+03-23 21:25:35.304 14714 14714 W app_process: type=1400 audit(0.0:150): avc: denied { read } for name="u:object_r:device_config_runtime_native_boot_prop:s0" dev="tmpfs" ino=7293 scontext=u:r:shell:s0 tcontext=u:object_r:device_config_runtime_native_boot_prop:s0 tclass=file permissive=0
+03-23 21:25:35.304 14714 14714 W app_process: type=1400 audit(0.0:151): avc: denied { read } for name="u:object_r:device_config_runtime_native_boot_prop:s0" dev="tmpfs" ino=7293 scontext=u:r:shell:s0 tcontext=u:object_r:device_config_runtime_native_boot_prop:s0 tclass=file permissive=0
+03-23 21:25:35.304 14714 14714 W app_process: type=1400 audit(0.0:152): avc: denied { read } for name="u:object_r:device_config_runtime_native_boot_prop:s0" dev="tmpfs" ino=7293 scontext=u:r:shell:s0 tcontext=u:object_r:device_config_runtime_native_boot_prop:s0 tclass=file permissive=0
+03-23 21:25:35.979 14714 14714 D ICU     : Time zone APEX file found: /apex/com.android.tzdata/etc/icu/icu_tzdata.dat
+03-23 21:25:35.997 14714 14714 W app_process: Unexpected CPU variant for X86 using defaults: x86
+03-23 21:25:35.999 14714 14714 I app_process: The ClassLoaderContext is a special shared library.
+03-23 21:25:36.016 14714 14714 W app_process: JNI RegisterNativeMethods: attempt to register 0 native methods for android.media.AudioAttributes
+03-23 21:25:36.020 14714 14714 D AndroidRuntime: Calling main entry com.android.commands.am.Am
+03-23 21:25:36.024 14714 14714 D AndroidRuntime: Shutting down VM
+03-23 21:25:36.036  1795  2416 E GnssHAL_GnssInterface: gnssSvStatusCb: a: input svInfo.flags is 8
+03-23 21:25:36.036  1795  2416 E GnssHAL_GnssInterface: gnssSvStatusCb: b: input svInfo.flags is 8
+--------- beginning of main
+03-23 21:29:42.067  1795  2416 E GnssHAL_GnssInterface: gnssSvStatusCb: a: input svInfo.flags is 8
+03-23 21:29:42.067  1795  2416 E GnssHAL_GnssInterface: gnssSvStatusCb: b: input svInfo.flags is 8
+03-23 21:29:42.624  9277  9319 I MicroDetectionWorker: #startMicroDetector [speakerMode: 0]
+03-23 21:29:42.625  9277  9319 W ErrorReporter: reportError [type: 211, code: 393244, bug: 0]: errorCode: 393244, engine: 0
+03-23 21:29:42.627  9277  9319 I MicroDetector: Keeping mic open: false
+03-23 21:29:42.627  9277  9319 I MicroDetectionWorker: #onError(false)
+03-23 21:29:43.067  1795  2416 E GnssHAL_GnssInterface: gnssSvStatusCb: a: input svInfo.flags is 8
+03-23 21:29:43.067  1795  2416 E GnssHAL_GnssInterface: gnssSvStatusCb: b: input svInfo.flags is 8
+03-23 21:29:44.067  1795  2416 E GnssHAL_GnssInterface: gnssSvStatusCb: a: input svInfo.flags is 8
+03-23 21:29:44.067  1795  2416 E GnssHAL_GnssInterface: gnssSvStatusCb: b: input svInfo.flags is 8
+03-23 21:29:45.039 14765 14765 D AndroidRuntime: >>>>>> START com.android.internal.os.RuntimeInit uid 2000 <<<<<<
+03-23 21:29:45.034 14765 14765 W app_process: type=1400 audit(0.0:153): avc: denied { read } for name="u:object_r:device_config_runtime_native_boot_prop:s0" dev="tmpfs" ino=7293 scontext=u:r:shell:s0 tcontext=u:object_r:device_config_runtime_native_boot_prop:s0 tclass=file permissive=0
+03-23 21:29:45.034 14765 14765 I chatty  : uid=2000(shell) app_process identical 1 line
+03-23 21:29:45.034 14765 14765 W app_process: type=1400 audit(0.0:155): avc: denied { read } for name="u:object_r:device_config_runtime_native_boot_prop:s0" dev="tmpfs" ino=7293 scontext=u:r:shell:s0 tcontext=u:object_r:device_config_runtime_native_boot_prop:s0 tclass=file permissive=0
+03-23 21:29:45.042 14765 14765 E libc    : Access denied finding property "persist.device_config.runtime_native_boot.enable_apex_image"
+03-23 21:29:45.042 14765 14765 I AndroidRuntime: Using default boot image
+03-23 21:29:45.042 14765 14765 E libc    : Access denied finding property "persist.device_config.runtime_native_boot.disable_lock_profiling"
+03-23 21:29:45.042 14765 14765 I AndroidRuntime: Leaving lock profiling enabled
+03-23 21:29:45.042 14765 14765 E libc    : Access denied finding property "persist.device_config.runtime_native_boot.enable_generational_cc"
+03-23 21:29:45.045 14765 14765 W app_process: Could not reserve sentinel fault page
+03-23 21:29:45.066  1795  2416 E GnssHAL_GnssInterface: gnssSvStatusCb: a: input svInfo.flags is 8
+03-23 21:29:45.066  1795  2416 E GnssHAL_GnssInterface: gnssSvStatusCb: b: input svInfo.flags is 8
+03-23 21:29:45.124 14765 14765 D ICU     : Time zone APEX file found: /apex/com.android.tzdata/etc/icu/icu_tzdata.dat
+03-23 21:29:45.130 14765 14765 W app_process: Unexpected CPU variant for X86 using defaults: x86
+03-23 21:29:45.132 14765 14765 I app_process: The ClassLoaderContext is a special shared library.
+03-23 21:29:45.148 14765 14765 W app_process: JNI RegisterNativeMethods: attempt to register 0 native methods for android.media.AudioAttributes
+03-23 21:29:45.152 14765 14765 D AndroidRuntime: Calling main entry com.android.commands.am.Am
+03-23 21:29:45.157 14765 14765 D AndroidRuntime: Shutting down VM
+--------- beginning of main
+03-23 21:42:38.478  9277  9319 I MicroDetectionWorker: #startMicroDetector [speakerMode: 0]
+03-23 21:42:38.480  9277  9319 W ErrorReporter: reportError [type: 211, code: 393244, bug: 0]: errorCode: 393244, engine: 0
+03-23 21:42:38.481  9277  9319 I MicroDetector: Keeping mic open: false
+03-23 21:42:38.481  9277  9319 I MicroDetectionWorker: #onError(false)
+03-23 21:42:39.143  1795  2416 E GnssHAL_GnssInterface: gnssSvStatusCb: a: input svInfo.flags is 8
+03-23 21:42:39.143  1795  2416 E GnssHAL_GnssInterface: gnssSvStatusCb: b: input svInfo.flags is 8
+03-23 21:42:40.144  1795  2416 E GnssHAL_GnssInterface: gnssSvStatusCb: a: input svInfo.flags is 8
+03-23 21:42:40.144  1795  2416 E GnssHAL_GnssInterface: gnssSvStatusCb: b: input svInfo.flags is 8
+03-23 21:42:41.144  1795  2416 E GnssHAL_GnssInterface: gnssSvStatusCb: a: input svInfo.flags is 8
+03-23 21:42:41.144  1795  2416 E GnssHAL_GnssInterface: gnssSvStatusCb: b: input svInfo.flags is 8
+03-23 21:42:41.650 14840 14840 D AndroidRuntime: >>>>>> START com.android.internal.os.RuntimeInit uid 2000 <<<<<<
+03-23 21:42:41.644 14840 14840 W app_process: type=1400 audit(0.0:156): avc: denied { read } for name="u:object_r:device_config_runtime_native_boot_prop:s0" dev="tmpfs" ino=7293 scontext=u:r:shell:s0 tcontext=u:object_r:device_config_runtime_native_boot_prop:s0 tclass=file permissive=0
+03-23 21:42:41.644 14840 14840 I chatty  : uid=2000(shell) app_process identical 1 line
+03-23 21:42:41.644 14840 14840 W app_process: type=1400 audit(0.0:158): avc: denied { read } for name="u:object_r:device_config_runtime_native_boot_prop:s0" dev="tmpfs" ino=7293 scontext=u:r:shell:s0 tcontext=u:object_r:device_config_runtime_native_boot_prop:s0 tclass=file permissive=0
+03-23 21:42:41.652 14840 14840 E libc    : Access denied finding property "persist.device_config.runtime_native_boot.enable_apex_image"
+03-23 21:42:41.652 14840 14840 I AndroidRuntime: Using default boot image
+03-23 21:42:41.652 14840 14840 E libc    : Access denied finding property "persist.device_config.runtime_native_boot.disable_lock_profiling"
+03-23 21:42:41.652 14840 14840 I AndroidRuntime: Leaving lock profiling enabled
+03-23 21:42:41.652 14840 14840 E libc    : Access denied finding property "persist.device_config.runtime_native_boot.enable_generational_cc"
+03-23 21:42:41.696 14840 14840 D ICU     : Time zone APEX file found: /apex/com.android.tzdata/etc/icu/icu_tzdata.dat
+03-23 21:42:41.700 14840 14840 W app_process: Unexpected CPU variant for X86 using defaults: x86
+03-23 21:42:41.701 14840 14840 I app_process: The ClassLoaderContext is a special shared library.
+03-23 21:42:41.709 14840 14840 W app_process: JNI RegisterNativeMethods: attempt to register 0 native methods for android.media.AudioAttributes
+03-23 21:42:41.711 14840 14840 D AndroidRuntime: Calling main entry com.android.commands.am.Am
+03-23 21:42:41.714 14840 14840 D AndroidRuntime: Shutting down VM
+--------- beginning of main
+03-23 21:43:46.151  1795  2416 E GnssHAL_GnssInterface: gnssSvStatusCb: a: input svInfo.flags is 8
+03-23 21:43:46.151  1795  2416 E GnssHAL_GnssInterface: gnssSvStatusCb: b: input svInfo.flags is 8
+03-23 21:43:47.150  1795  2416 E GnssHAL_GnssInterface: gnssSvStatusCb: a: input svInfo.flags is 8
+03-23 21:43:47.150  1795  2416 E GnssHAL_GnssInterface: gnssSvStatusCb: b: input svInfo.flags is 8
+03-23 21:43:48.150  1795  2416 E GnssHAL_GnssInterface: gnssSvStatusCb: a: input svInfo.flags is 8
+03-23 21:43:48.151  1795  2416 E GnssHAL_GnssInterface: gnssSvStatusCb: b: input svInfo.flags is 8
+03-23 21:43:48.556  9277  9319 I MicroDetectionWorker: #startMicroDetector [speakerMode: 0]
+03-23 21:43:48.557  9277  9319 W ErrorReporter: reportError [type: 211, code: 393244, bug: 0]: errorCode: 393244, engine: 0
+03-23 21:43:48.558  9277  9319 I MicroDetector: Keeping mic open: false
+03-23 21:43:48.559  9277  9319 I MicroDetectionWorker: #onError(false)
+03-23 21:43:48.914 14878 14878 D AndroidRuntime: >>>>>> START com.android.internal.os.RuntimeInit uid 2000 <<<<<<
+03-23 21:43:48.904 14878 14878 W app_process: type=1400 audit(0.0:159): avc: denied { read } for name="u:object_r:device_config_runtime_native_boot_prop:s0" dev="tmpfs" ino=7293 scontext=u:r:shell:s0 tcontext=u:object_r:device_config_runtime_native_boot_prop:s0 tclass=file permissive=0
+03-23 21:43:48.918 14878 14878 E libc    : Access denied finding property "persist.device_config.runtime_native_boot.enable_apex_image"
+03-23 21:43:48.918 14878 14878 I AndroidRuntime: Using default boot image
+03-23 21:43:48.904 14878 14878 W app_process: type=1400 audit(0.0:160): avc: denied { read } for name="u:object_r:device_config_runtime_native_boot_prop:s0" dev="tmpfs" ino=7293 scontext=u:r:shell:s0 tcontext=u:object_r:device_config_runtime_native_boot_prop:s0 tclass=file permissive=0
+03-23 21:43:48.904 14878 14878 W app_process: type=1400 audit(0.0:161): avc: denied { read } for name="u:object_r:device_config_runtime_native_boot_prop:s0" dev="tmpfs" ino=7293 scontext=u:r:shell:s0 tcontext=u:object_r:device_config_runtime_native_boot_prop:s0 tclass=file permissive=0
+03-23 21:43:48.918 14878 14878 E libc    : Access denied finding property "persist.device_config.runtime_native_boot.disable_lock_profiling"
+03-23 21:43:48.918 14878 14878 I AndroidRuntime: Leaving lock profiling enabled
+03-23 21:43:48.918 14878 14878 E libc    : Access denied finding property "persist.device_config.runtime_native_boot.enable_generational_cc"
+03-23 21:43:48.920 14878 14878 W app_process: Could not reserve sentinel fault page
+03-23 21:43:48.996 14878 14878 D ICU     : Time zone APEX file found: /apex/com.android.tzdata/etc/icu/icu_tzdata.dat
+03-23 21:43:49.001 14878 14878 W app_process: Unexpected CPU variant for X86 using defaults: x86
+03-23 21:43:49.003 14878 14878 I app_process: The ClassLoaderContext is a special shared library.
+03-23 21:43:49.020 14878 14878 W app_process: JNI RegisterNativeMethods: attempt to register 0 native methods for android.media.AudioAttributes
+03-23 21:43:49.024 14878 14878 D AndroidRuntime: Calling main entry com.android.commands.am.Am
+03-23 21:43:49.028 14878 14878 D AndroidRuntime: Shutting down VM
